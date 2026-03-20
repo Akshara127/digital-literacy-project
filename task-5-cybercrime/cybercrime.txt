@@ -1,0 +1,15 @@
+Cybercrime
+
+Cybercrime refers to illegal activities done using computers or the internet.
+
+Types of Cybercrime:
+1. Phishing – Fake emails to steal information
+2. Hacking – Unauthorized access to systems
+3. Identity Theft – Stealing personal data
+4. Online Fraud – Scams and fake offers
+
+Prevention:
+1. Use strong passwords
+2. Do not share personal information
+3. Avoid suspicious links
+4. Use antivirus software
