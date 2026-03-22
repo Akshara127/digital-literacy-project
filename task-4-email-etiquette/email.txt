@@ -1,22 +1,52 @@
-Email Etiquette
+EMAIL-1
+Subject: Request for Extension on Assignment Submission – CSE0001
 
-1. Use a clear subject line.
-2. Start with a greeting.
-3. Be polite and professional.
-4. Keep the message short and clear.
-5. Avoid spelling mistakes.
-6. End with a proper closing.
+Dear Professor,
 
-Example Email:
+I hope this email finds you well. I am Akshara Khandelwal, 
+a first-year B.Tech (CS-AIML) student at VIT Bhopal University.
 
-Subject: Assignment Submission
+I am writing to respectfully request a short extension on the 
+upcoming assignment submission for CSE0001 – Digital Literacy, 
+due to some unavoidable personal circumstances that have affected 
+my preparation.
 
-Dear Sir/Ma’am,
+I assure you that I am fully committed to completing the work 
+with the quality it deserves. I kindly request an extension 
+of 2-3 days, if possible.
 
-I hope you are doing well.
-I am submitting my assignment for your review.
+I sincerely apologize for any inconvenience caused and thank 
+you for your understanding.
 
-Thank you.
-
-Regards,
+Yours sincerely,
 Akshara Khandelwal
+B.Tech CSE (AIML) | First Year
+VIT Bhopal University
+
+EMAIL-2
+Subject: Application for Summer Internship Opportunity – 
+         Akshara Khandelwal, VIT Bhopal
+
+Dear Sir/Madam,
+
+I am Akshara Khandelwal, a first-year B.Tech student 
+specializing in Computer Science (Artificial Intelligence 
+and Machine Learning) at VIT Bhopal University.
+
+I am writing to express my keen interest in a summer 
+internship opportunity at your esteemed organization. 
+I am eager to apply my academic knowledge in a 
+real-world environment and contribute meaningfully 
+to your team.
+
+I would be grateful for the opportunity to learn from 
+your team and grow as a future professional. Please 
+find my details below for your reference.
+
+I look forward to hearing from you at your convenience.
+
+Yours sincerely,
+Akshara Khandelwal
+B.Tech CSE (AIML) | First Year
+VIT Bhopal University
+Registration No.: [25BAI10408]
