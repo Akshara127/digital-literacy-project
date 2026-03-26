@@ -25,3 +25,7 @@ This project covers basic digital literacy skills including infographic creation
 ## Tools Used:
 - Canva
 - GitHub
+- GOOGLE FORM
+- kaggle
+- linkedin
+- hackerank
